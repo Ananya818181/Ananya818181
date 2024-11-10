@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m currently a 2nd-year student pursuing Computer Science at ABES Engineering College.
+##🌱 I’m currently a 2nd-year student pursuing Computer Science at ABES Engineering College.
 🚀 Passionate about coding, problem-solving, and full-stack development.
 💻 My current focus is on improving my skills in Full-Stack Web Development.
 💡 I enjoy participating in hackathons, and I'm always eager to work on exciting projects that challenge me to learn more.
