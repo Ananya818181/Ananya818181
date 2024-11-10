@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🌱 I’m currently a 2nd yr student
 <!--
 **Ananya818181/Ananya818181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
