@@ -4,7 +4,7 @@
 - 🚀 Passionate about coding, problem-solving, and full-stack development.  
 - 💻 My current focus is on improving my skills in Full-Stack Web Development.  
 - 💡 I enjoy participating in hackathons, and I'm always eager to work on exciting projects that challenge me to learn more.  
-- 🤝 Actively involved in CodeChef ABES Chapter and love to contribute to open-source communities.
+- 🤝 Actively involved in CodeChef ABESEC Chapter and love to contribute to open-source communities.
 
 <!--
 **Ananya818181/Ananya818181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
